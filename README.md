@@ -10,12 +10,12 @@ Hi, this is project in wich you will find crypto data visualized in a Power Bi. 
 
 Functional project>
 <br>
-A. Dashboard mockup
-<br>
-<img width='600'  src='https://github.com/adrianrodriguez-io/power-bi-crypto-data-analysis/blob/main/images/Dashboard%20mockup.png'></img>
-
-B. Data workflow
+A. Data workflow
 <br>
 <img width='600'  src='https://github.com/adrianrodriguez-io/power-bi-crypto-data-analysis/blob/main/images/Data%20workflow.png'></img>
+
+B. Dashboard mockup
+<br>
+<img width='600'  src='https://github.com/adrianrodriguez-io/power-bi-crypto-data-analysis/blob/main/images/Dashboard%20mockup.png'></img>
 
 Stay tunned!
