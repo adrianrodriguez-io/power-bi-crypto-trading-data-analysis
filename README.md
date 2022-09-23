@@ -18,4 +18,8 @@ B. Dashboard mockup
 <br>
 <img width='600'  src='https://github.com/adrianrodriguez-io/power-bi-crypto-data-analysis/blob/main/images/Dashboard%20mockup.png'></img>
 
+B. Datasets
+<br>
+<img width='600'  src='https://github.com/adrianrodriguez-io/power-bi-crypto-data-analysis/blob/main/images/Datasets.png'></img>
+
 Stay tunned!
