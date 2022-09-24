@@ -9,6 +9,8 @@ Files>
 
 3. pbi-crypto-data-analysis.pbix > This is an embebeded Power Bi in the repository in wich you can see different charts and graph visualizations. For checking it out the live <a target='_blank' href='https://adrianrodriguez-io.github.io/power-bi-crypto-data-analysis/'>Power Bi please click here</a>.
 
+<iframe title="pbi-crypto-data-analysis - Charts" width="1024" height="920" src="https://app.powerbi.com/view?r=eyJrIjoiNGVmZWFkY2YtMzVmNy00ODViLWE4YWUtZWE0OTZhNzBhZWE2IiwidCI6ImEwODIzZDk4LWM0MTgtNDgwYi1hNjI3LTQ1N2I3NmVlYjVkNyJ9" frameborder="0" allowFullScreen="true"></iframe>
+
 Functional project>
 <br>
 A. Data Visualization (Power BI)
