@@ -2,7 +2,7 @@
 
 Hi, this is project in wich you will find a Power BI visualization based on crypto data.
 
-## Chalengue
+## Challengue
 (pending to fill this)
 
 ## Files
