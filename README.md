@@ -29,5 +29,3 @@ C. Data workflow
 D. Graph
 <br>
 <img width='600'  src='https://github.com/adrianrodriguez-io/power-bi-crypto-data-analysis/blob/main/images/Graph.png'></img>
-
-Stay tunned!
