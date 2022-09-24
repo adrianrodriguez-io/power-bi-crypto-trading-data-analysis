@@ -1,4 +1,4 @@
-# power-bi-crypto-data-analysis
+# Power BI Crypto Data Analysis
 
 Hi, this is project in wich you will find a Power BI visualization based on crypto data.
 
