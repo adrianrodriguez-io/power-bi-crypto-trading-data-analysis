@@ -2,10 +2,10 @@
 
 Hi, this is project in wich you will find a Power BI visualization based on crypto data.
 
-##Chalengue
+## Chalengue
 (pending to fill this)
 
-##Files
+## Files
 
 1. Functional project.pdf> PDF containing different slides about the initials stages of the project.
 
@@ -15,7 +15,7 @@ Hi, this is project in wich you will find a Power BI visualization based on cryp
 
 4. index.html (pbi-crypto-data-analysis) > This is an embebeded Power Bi in the repository in wich you can see different charts and graph visualizations. For checking it out the live <a target='_blank' href='https://adrianrodriguez-io.github.io/power-bi-crypto-data-analysis/'>Power Bi please click here</a>.
 
-##Functional project
+## Functional project
 <br>
 A. Data Visualization (Power BI)
 <br>
