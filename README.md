@@ -2,7 +2,7 @@
 
 Hi, 
 
-This is a project in wich you will find a Power BI visualization based on crypto data. FOr checking it out the live Power BI visualization click <a target='_blank' href='https://adrianrodriguez-io.github.io/power-bi-crypto-data-analysis/'>here</a> .
+This is a project in wich you will find a Power BI visualization based on crypto data. For checking it out the live Power BI visualization click <a target='_blank' href='https://adrianrodriguez-io.github.io/power-bi-crypto-data-analysis/'>here</a> .
 
 ## Challengue
 (pending to fill this)
