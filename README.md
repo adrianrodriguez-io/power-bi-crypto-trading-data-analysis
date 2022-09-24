@@ -7,7 +7,7 @@ Files>
 
 2. graph-visualization.ipynb> This is a jupyter notebook using python for visualizating an igraph visualization the network of all crypto currencies traded (cryptos trades dataset can be filtered previuosly in ingest-load.ipynb).
 
-3. pbi-crypto-data-analysis > This is an embebeded Power Bi in the repository in wich you can see different charts and graph visualizations. For checking it out the live <a target='_blank' href='https://adrianrodriguez-io.github.io/power-bi-crypto-data-analysis/'>Power Bi please click here</a>.
+3. index.html (pbi-crypto-data-analysis) > This is an embebeded Power Bi in the repository in wich you can see different charts and graph visualizations. For checking it out the live <a target='_blank' href='https://adrianrodriguez-io.github.io/power-bi-crypto-data-analysis/'>Power Bi please click here</a>.
 
 Functional project>
 <br>
