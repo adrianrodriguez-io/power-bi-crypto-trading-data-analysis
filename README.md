@@ -8,7 +8,7 @@ Hi, this is a project in wich you will find a Power BI visualization based on cr
 ## Files
 
 ### 1. Functional project.pdf 
-PDF containing different slides about the initials stages of the project.
+PDF containing different slides about the ideation and initials stages of the project.
 
 ### 2. Ingest-load.ipynb 
 You can find an ingest and load jupyter notebook using python for ingesting crypto data from a crypto exchange pulled from its public API endpoints. This script generates three datasets wich are stored into csv. 1. vertexs.csv > contains a table for all crypto currencies available. 2. currencypairs.csv > a relation of all pairs of crypto currencies that can be traded. And 3. OHLC_trades.csv > this contain data about prices and volumes for all pairs of cryptos traded in different dates. 
