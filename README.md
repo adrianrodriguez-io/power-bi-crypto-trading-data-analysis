@@ -2,7 +2,7 @@
 
 Hi, 
 
-This is a project in wich you will find a Power BI visualization based on crypto data. For checking it out the live Power BI visualization click <a target='_blank' href='https://adrianrodriguez-io.github.io/power-bi-crypto-data-analysis/'>here</a> .
+This is a project in wich you will find a Power BI visualization based on crypto data. For checking it out the live Power BI visualization click <a target='_blank' href='https://adrianrodriguez-io.github.io/power-bi-crypto-trading-data-analysis/'>here</a> .
 
 ## Challengue
 
@@ -28,7 +28,7 @@ You can find an ingest and load jupyter notebook using python for ingesting cryp
 This is a jupyter notebook using python for visualizating an igraph visualization in order to see the network of all crypto currencies traded (cryptos trades dataset can be filtered previuosly in ingest-load.ipynb).
 
 ### 4. index.html (pbi-crypto-data-analysis)
-This is an embebeded Power Bi in the repository in wich you can see different charts and graph visualizations. For checking it out the live <a target='_blank' href='https://adrianrodriguez-io.github.io/power-bi-crypto-data-analysis/'>Power Bi please click here</a>.
+This is an embebeded Power Bi in the repository in wich you can see different charts and graph visualizations. For checking it out the live <a target='_blank' href='https://adrianrodriguez-io.github.io/power-bi-crypto-trading-data-analysis/'>Power Bi please click here</a>.
 
 ## Functional project
 
