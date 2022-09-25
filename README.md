@@ -23,7 +23,6 @@ This is an embebeded Power Bi in the repository in wich you can see different ch
 
 ## Functional project
 <br>
-
 ### A. Data Visualization (Power BI)
 <br>
 <img width='600'  src='https://github.com/adrianrodriguez-io/power-bi-crypto-data-analysis/blob/main/images/Data%20visualization.png'></img>
