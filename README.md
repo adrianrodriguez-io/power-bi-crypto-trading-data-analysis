@@ -22,7 +22,7 @@ This is a jupyter notebook using python for visualizating an igraph visualizatio
 This is an embebeded Power Bi in the repository in wich you can see different charts and graph visualizations. For checking it out the live <a target='_blank' href='https://adrianrodriguez-io.github.io/power-bi-crypto-data-analysis/'>Power Bi please click here</a>.
 
 ## Functional project
-<br>
+
 ### A. Data Visualization (Power BI)
 <br>
 <img width='600'  src='https://github.com/adrianrodriguez-io/power-bi-crypto-data-analysis/blob/main/images/Data%20visualization.png'></img>
