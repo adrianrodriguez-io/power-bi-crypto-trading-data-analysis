@@ -1,4 +1,4 @@
-# Power BI Crypto Data Analysis
+# Power BI Crypto Trading Data Analysis
 
 Hi, 
 
