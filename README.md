@@ -6,7 +6,7 @@ This is a project in wich you will find a Power BI visualization based on crypto
 
 ## Challengue
 
-The goal of this project was to visualize crypto market data into a visualization for analyzing different trends and relations between measured traded crypto currencies. 
+The goal of this project was to visualize crypto trading market data into a visualization for analyzing different trends and relations between measured traded crypto currencies. 
 
 It was needed to pulldata from a crypto exchange public API endpoints wich was done using python. Some challlengues was that the data originally is in json format so it was needed to make some transformations in order to structure that in order to store that into csv format. Mainly pandas, numpy and igraph python libraries were used. Some tweeks into the data was to use pandas library to create an index for the different cryptos traded in order to visualize that as a network graph using igraph python library. I used pandas to join different dataframes created along the ingest-load script as well as using pandas rank method for having an index for every crypto currency. Having an index id for every crypto in the data was needed because igraph python library requires to configure the graph using indexes instead of categorical values like names. 
 
