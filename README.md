@@ -4,8 +4,6 @@ Hi,
 
 This is a project in wich you will find a Power BI visualization based on crypto trading data. For checking it out the live Power BI visualization click <a target='_blank' href='https://adrianrodriguez-io.github.io/power-bi-crypto-trading-data-analysis/'>here</a> .
 
-<iframe title="pbi-crypto-data-analysis - Charts" width="1024" height="920" src="https://app.powerbi.com/view?r=eyJrIjoiNGVmZWFkY2YtMzVmNy00ODViLWE4YWUtZWE0OTZhNzBhZWE2IiwidCI6ImEwODIzZDk4LWM0MTgtNDgwYi1hNjI3LTQ1N2I3NmVlYjVkNyJ9" frameborder="0" allowFullScreen="true"></iframe>
-
 ## Challengue
 
 The goal of this project was to develop a data visualization about crypto trading market data for analyzing trends and relations between measured traded crypto currencies. The project has been documented in a functional document, created for the ideation of the data workflow and Power Bi visualization as well as the final result of the Power BI developed (see functional section below or download the Crypto market analysys functional document (PDF) ).
