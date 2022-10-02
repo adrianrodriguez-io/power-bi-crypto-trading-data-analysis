@@ -2,9 +2,25 @@
 <head>
 </head>
 <body>
+<script>
+
+var w = window.innerWidth;
+var h = window.innerHeight;
+
+iframehtml = '<iframe title="pbi-crypto-data-analysis - Charts" width="'+w+'" height="'+h+'" src="https://app.powerbi.com/view?r=eyJrIjoiNGVmZWFkY2YtMzVmNy00ODViLWE4YWUtZWE0OTZhNzBhZWE2IiwidCI6ImEwODIzZDk4LWM0MTgtNDgwYi1hNjI3LTQ1N2I3NmVlYjVkNyJ9" frameborder="0" allowFullScreen="true"></iframe>'
+
+const textnode = document.createTextNode(iframehtml);
+
+document.getElementById("powerbi").appendChild(textnode);
+
+/* 
+<iframe title="pbi-crypto-data-analysis - Charts" width="1024" height="920" src="https://app.powerbi.com/view?r=eyJrIjoiNGVmZWFkY2YtMzVmNy00ODViLWE4YWUtZWE0OTZhNzBhZWE2IiwidCI6ImEwODIzZDk4LWM0MTgtNDgwYi1hNjI3LTQ1N2I3NmVlYjVkNyJ9" frameborder="0" allowFullScreen="true"></iframe>
+*/
+
+</script>
 <h1>Power BI crypto data visualizaton</h1>
 <div>For go back to the repository click <a href='https://github.com/adrianrodriguez-io/power-bi-crypto-data-analysis'>here</a></div>
-<div align='center'>
+<div id='powerbi' align='center'>
 <iframe title="pbi-crypto-data-analysis - Charts" width="1024" height="920" src="https://app.powerbi.com/view?r=eyJrIjoiNGVmZWFkY2YtMzVmNy00ODViLWE4YWUtZWE0OTZhNzBhZWE2IiwidCI6ImEwODIzZDk4LWM0MTgtNDgwYi1hNjI3LTQ1N2I3NmVlYjVkNyJ9" frameborder="0" allowFullScreen="true"></iframe>
 </div>
 </body>
