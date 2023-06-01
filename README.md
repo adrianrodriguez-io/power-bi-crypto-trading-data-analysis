@@ -2,7 +2,7 @@
 
 Hi, 
 
-This is a project in wich you will find a Power BI visualization based on crypto trading data. For checking it out the live Power BI visualization click <a target='_blank' href='https://adrianrodriguez-io.github.io/power-bi-crypto-trading-data-analysis/'>here</a> .
+This is a project in wich you will find a Power BI visualization based on crypto trading data. For checking it out the live Power BI visualization click <a target='_blank' href='https://adrianrodriguez-io.github.io/power-bi-crypto-trading-data-analysis/'>HERE</a> .
 
 ## Challengue
 
